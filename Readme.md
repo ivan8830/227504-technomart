@@ -2,7 +2,7 @@
 
 * Студент: [Иван Генеральчик](https://up.htmlacademy.ru/htmlcss/15/user/227504).
 * Наставник: `Неизвестно`.
-* Наставник: [Макс Пушкарев](https://up.htmlacademy.ru/htmlcss/15/user/87167)
+* Наставник: [Макс :) Пушкарев](https://up.htmlacademy.ru/htmlcss/15/user/87167)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
